@@ -1,0 +1,28 @@
+name: timeless
+favicon: null
+layout_spectrum: 0.9774198560044169
+typography_spectrum: 0.8672734443098307
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.03509540902450681
+  lightness: 0.005337798735126853
+  saturation: 0.025143926264718175
+  rhythmicContrast: 0.1174723943695426
+purpose: []
