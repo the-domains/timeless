@@ -1,20 +1,4 @@
-name: timeless
-favicon: null
-layout_spectrum: 0.9774198560044169
 typography_spectrum: 0.8672734443098307
-title: Vision Quest
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0a1010'
@@ -26,4 +10,21 @@ color:
   lightness: 0.3125
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9774198560044169
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: timeless
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Vision Quest
+description: Bringing the Most Important Question to Mother Earth
 purpose: []
