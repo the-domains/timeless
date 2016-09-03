@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Central Question
+    id: 138d6cbf-afc7-426d-9bf0-1f52c1152a8a
+    type: content
 favicon: null
 title: Vision Quest
 description: Bringing a Most Important Question To Mother Earth
